@@ -5,7 +5,7 @@
   },
   "extends": ["airbnb-base", "prettier"],
   "parserOptions": {
-    "ecmaVersion": 13
+    "ecmaVersion": "latest"
   },
   "rules": {
     "no-console": "off",
